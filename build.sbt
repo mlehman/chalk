@@ -25,7 +25,7 @@ libraryDependencies ++= Seq(
 
 // New dependencies
 libraryDependencies ++= Seq(
-  "com.codecommit" % "anti-xml_2.9.1" % "0.3"
+  // none
 )
 
 publishTo <<= version { v: String =>
